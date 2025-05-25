@@ -1,12 +1,23 @@
 ACT_13MAY25.py: Programa donde se interactua con el usuario, se le pide 10 numeros donde se aplica la practica de Listas y Tuplas junto a operaciones Basicas.
+
 CLASE_26ABR.py: Apuntes de clase y actividad de refuerzo con metodo .find, extraccion, asignacion y concanetacion.
+
 EJERCICIOS TUPLAS.py: Actividad de 7 puntos con tuplas y sus metodos: Len, count, Index y juego de coordenadas.
+
 EJERCICIOS_TUPLAS_LSITAS.py: Ejercicios en grupo sacados de la guia de tuplas. Socializados en clase.
+
 Mascotas.py: Programa con practica de Diccionario.
+
 Primer_Taller_25puntos.py: Taller (En parejas) incluye practica de Operaciones basicas, extraccion, concanetacion, metodo _len_, juego de coordenadas y aplicacion de .upper y .lower.
+
 Primera_Actividad.py: Actividad de interacion con el usuario usando las bases de la potenciación.
+
 SISTEMA DE CALIFICACION.py: Programa de Sistema Calificativo de 5 materias, 3 notas cada una, Promedio de cada una y general. 
+
 TallerTuplaListaDiccionario.py: Taller de 3 puntos. Se utilizan tuplas, listas y diccionarios. Tematica de compras.
+
 Taller_20PUNTOS.py: Practica de tuplas, listas, juegos de coordenadas y metodos.
+
 Taller_Tuplas_y_Listas_PAREJAS.py: El mismo de "ACT_13MAY25" pero siendo codigo trabajado en Parejas.
+
 codigo lau.py: Participacion en clase. Corregir Codigo.
